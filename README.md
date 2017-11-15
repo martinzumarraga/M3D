@@ -1,4 +1,6 @@
-# M3D
-Práctica llevada a cabo en la asignatura de Modelado 3D.
+# 3DM
+3D Modeling subject's project.
 
-En el repositorio podemos encontrar el fichero M3D-Bspline.pdf donde se dan todas las explicaciones necesarias para realizar la practica, el fichero Enunciado.pdf donde se define la tarea a realizar por el alumno y el programa Bspline. 
+In the repositori we can find the following data:
+- Enunciado.pdf and M3D-Bspline.pdf, which splines in what the project consist(in Spanish).
+- The program Bspline. 
